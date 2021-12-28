@@ -1,8 +1,7 @@
 
-## 👋 HEYO, my name is Patrick Valera
-
-- 🥔 21 from California, United States
-- 🌱 Junior Computer Science student (Bachelors)
+## 👋 Hey, I'm Patrick Valera
+- 🥔 21, from California, United States
+- 🌱 Currently a junior computer science student
 - 🎓 Associates Degree in Mathematics and Computer Science
 - 🔭 Currently learning the MERN STACK
 
