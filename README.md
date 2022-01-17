@@ -1,23 +1,24 @@
 
 ## 👋 Hey, I'm Patrick Valera
-- 🥔 21, from California, United States
-- 🌱 Currently a junior computer science student
-- 🎓 Associates Degree in Mathematics and Computer Science
-- 🔭 Currently learning the MERN STACK
+- 21, from California, United States
+- Undergrad computer sciene student - Bachelors
+- Associates Degree in Mathematics and Computer Science
+- MERN stack
 
 ## 📚 My Tech stack
-
-- 🟠HTML
-- 🔵CSS/🍥SASS
-- 🟡Javascript/🔵React
-- 🟢ExpressJS
-- 🟢MongoDB
-- 🟣Redux
+- HTML
+- CSS/SASS
+- Javascript/React
+- NodeJS/ExpressJS
+- MongoDB/SQL
+- Redux
+- GraphQL
+- WebsocketIO
 
 ## ⚙️ Main Projects
-- 🍞 https://groovemade.herokuapp.com/
-- ⛛ http://artifoxclone.herokuapp.com/
-- 🔭 http://spacetagram-pat.herokuapp.com/
-- 🌿 https://recipefinderpatrick.herokuapp.com/
-- 🗒️ http://todoappwithmaterial.herokuapp.com/
-- 💬 https://poopcordpat.herokuapp.com/login
+- 🍞 [Groovemade](https://groovemade.herokuapp.com/)
+- ⛛ [Artifox](http://artifoxclone.herokuapp.com/)
+- 🔭 [Spacetagram](http://spacetagram-pat.herokuapp.com/)
+- 🌿 [RecipeFinder](https://recipefinderpatrick.herokuapp.com/)
+- 🗒️ [To-do app LUL](http://todoappwithmaterial.herokuapp.com/)
+- 💬 [ChatterCord](https://poopcordpat.herokuapp.com/login)
