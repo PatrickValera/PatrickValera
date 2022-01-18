@@ -13,7 +13,7 @@
 - MongoDB/SQL
 - Redux
 - GraphQL
-- WebsocketIO
+- SocketIO
 
 ## ⚙️ Main Projects
 - 🍞 [Groovemade](https://groovemade.herokuapp.com/)
