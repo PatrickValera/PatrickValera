@@ -17,6 +17,4 @@
 - 🍞 [Groovemade](https://groovemade.herokuapp.com/)
 - ⛛ [Artifox](http://artifoxclone.herokuapp.com/)
 - 🔭 [Spacetagram](http://spacetagram-pat.herokuapp.com/)
-- 🌿 [RecipeFinder](https://recipefinderpatrick.herokuapp.com/)
-- 🗒️ [To-do app LUL](http://todoappwithmaterial.herokuapp.com/)
 - 💬 [ChatterCord](https://poopcordpat.herokuapp.com/login)
