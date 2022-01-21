@@ -3,11 +3,9 @@
 - 21, from California, United States
 - Undergrad computer sciene student - Bachelors
 - Associates Degree in Mathematics and Computer Science
-- MERN stack
 
 ## 📚 My Tech stack
-- HTML
-- CSS/SASS
+- HTML/CSS/SASS
 - Javascript/React
 - NodeJS/ExpressJS
 - MongoDB/SQL
