@@ -17,4 +17,4 @@
 - 🍞 [Groovemade](https://groovemade.herokuapp.com/)
 - ⛛ [Artifox](http://artifoxclone.herokuapp.com/)
 - 🔭 [Spacetagram](http://spacetagram-pat.herokuapp.com/)
-- 💬 [ChatterCord](https://poopcordpat.herokuapp.com/login)
+- 💬 [ChatterCord](https://chattercord.herokuapp.com/)
