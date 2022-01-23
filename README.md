@@ -1,6 +1,5 @@
 
 ## 👋 Hey, I'm Patrick Valera
-- 21, from California, United States
 - Undergrad computer sciene student - Bachelors
 - Associates Degree in Mathematics and Computer Science
 
@@ -15,6 +14,7 @@
 
 ## ⚙️ Main Projects
 - 🍞 [Groovemade](https://groovemade.herokuapp.com/)
+- 🗠 [Candelebra](https://candelebra.herokuapp.com/)
 - ⛛ [Artifox](http://artifoxclone.herokuapp.com/)
 - 🔭 [Spacetagram](http://spacetagram-pat.herokuapp.com/)
 - 💬 [ChatterCord](https://chattercord.herokuapp.com/)
