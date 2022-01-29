@@ -1,9 +1,10 @@
 
 ## 👋 Hey, I'm Patrick Valera
-- Undergrad computer sciene student - Bachelors
-- Associates Degree in Mathematics and Computer Science
+- B.S. Computer Science (undergrad)
+- A.S. Math, Computer Science
+- [MongoDB '21 Atlas Hackathon Winner](https://dev.to/devteam/congrats-to-the-mongodb-atlas-hackathon-winners-4cc0)
 
-## 📚 My Tech stack
+## 📚 My Web stack
 - HTML/CSS/SASS
 - Javascript/React
 - NodeJS/ExpressJS
