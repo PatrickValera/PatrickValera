@@ -10,7 +10,7 @@
 - NodeJS/ExpressJS
 - MongoDB/SQL
 - Redux
-- GraphQL
+- NextJS
 - SocketIO
 
 ## ⚙️ Main Projects
