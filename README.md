@@ -1,14 +1,15 @@
 
 ## 👋 Hey, I'm Patrick Valera
+-Currently learning: AWS, Data Structures and Algorithms
 
-## 📚 My Web stack
+## 📚 My Main stack
 - HTML/CSS/SASS
 - Javascript/React
-- NodeJS/ExpressJS
-- MongoDB/SQL
+- NodeJS/ExpressJS/NextJS
+- MongoDB
 - Redux
-- NextJS
-- SocketIO
+## Other Techs
+- Git, Python, Flask, SocketIO, VueJS
 
 ## ⚙️ Main Projects
 - 🍞 [Groovemade](https://groovemade.herokuapp.com/)
