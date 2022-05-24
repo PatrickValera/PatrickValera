@@ -1,6 +1,6 @@
 
 ## 👋 Hey, I'm Patrick Valera
--Currently learning: AWS, Data Structures and Algorithms
+-Currently learning: GraphQL, Data Structures and Algorithms
 
 ## 📚 My Main stack
 - HTML/CSS/SASS
