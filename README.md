@@ -1,6 +1,6 @@
 
 ## 👋 Hey, I'm Patrick Valera
--Currently learning: GraphQL, Data Structures and Algorithms
+-Currently learning: Python, Data Structures and Algorithms
 
 ## 📚 My Main stack
 - HTML/CSS/SASS
@@ -12,10 +12,8 @@
 - Git, Python, Flask, SocketIO, VueJS
 
 ## ⚙️ Main Projects
-- 🍞 [Groovemade](https://groovemade.herokuapp.com/)
 - 🗠 [Candelebra](https://candelebra.herokuapp.com/)
 - 🎵 [Studifi](https://studifi.vercel.app/)
 - ⛛ [Artifox](http://artifoxclone.herokuapp.com/)
-- 🔭 [Spacetagram](http://spacetagram-pat.herokuapp.com/)
 - 💬 [ChatterCord](https://chattercord.herokuapp.com/)
 
